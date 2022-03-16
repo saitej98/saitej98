@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </p>
-
+<hr/>
 
 ## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
 <h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - Aside from coding, I enjoy hiking and playing Badminton.  
   
 <br>
+<hr/>
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=GoAlive13&label=Profile%20views&color=0e75b6&style=plastic" alt="Saiteja Golivi" /> 
 </p> -->
@@ -122,6 +123,7 @@ Here are some ideas to get you started:
   </p>
 
 <br/> -->
+<hr/>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
@@ -131,9 +133,12 @@ Here are some ideas to get you started:
 	
 </p>
 <br/>
+<hr/>
 
 ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoAlive13&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoAlive13" alt="huxly123" /></p>
 <br/>
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoAlive13&show_icons=true&locale=en&layout=compact" alt="Saiteja Golivi" /></p>
  <br/>
