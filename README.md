@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 <h5 align="center">I am a Full stack web developer. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+- I’m currently learning🌱 React and applying them on a few basic applications you can check them here. [Click here](https://github.com/GoAlive13)  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- Aside from coding, I enjoy hiking, Playing Badminton.  
+  
 <br>
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
@@ -37,6 +45,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
