@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <a href="https://www.w3.org/html/" target="_blank">   
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
@@ -126,3 +125,8 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/ich_bin_saitej/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
 </p>
+<br/>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeevan243&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<br/>
