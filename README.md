@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
 <h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br/>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
 - I’m currently learning🌱 MERN stack and applying them on a few basic applications you can check them here. [Click here](https://github.com/GoAlive13)  
@@ -35,9 +36,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
 - Aside from coding, I enjoy hiking and playing Badminton.  
-  
+  <br/>
+  <br/>
+  <br/>
 <br>
+
 <hr/>
+
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=GoAlive13&label=Profile%20views&color=0e75b6&style=plastic" alt="Saiteja Golivi" /> 
 </p> -->
