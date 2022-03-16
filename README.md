@@ -21,25 +21,31 @@ Here are some ideas to get you started:
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a Full stack web developer. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-- I’m currently learning🌱 React and applying them on a few basic applications you can check them here. [Click here](https://github.com/GoAlive13)  
+<br/>
+
+## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
+<h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+
+- I’m currently learning🌱 MERN stack and applying them on a few basic applications you can check them here. [Click here](https://github.com/GoAlive13)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- Aside from coding, I enjoy hiking, Playing Badminton.  
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
+ 
+- Aside from coding, I enjoy hiking and playing Badminton.  
   
 <br>
 <!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
+	<img src="https://komarev.com/ghpvc/?username=GoAlive13&label=Profile%20views&color=0e75b6&style=plastic" alt="Saiteja Golivi" /> 
 </p> -->
 
 <!-- ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshrai633&theme=algolia" alt="Durgesh Kumar Rai" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoAlive13&theme=algolia" alt="Saiteja Golivi" /></p> -->
 
 
-## 🛠️ My Skills
+## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### 👉 Frontend Development
 <p align="center"> 
@@ -108,10 +114,10 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/durgeshrai633/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=durgeshrai633&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/GoAlive13/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GoAlive13&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshrai633&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="durgeshrai633" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoAlive13&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="GoAlive13" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -127,6 +133,6 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-## Github Stats  
+## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoAlive13&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
