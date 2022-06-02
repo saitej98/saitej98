@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 <hr color="blue"/>
 
-## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "100px"> 
+## About Me 
 <h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoAlive13&theme=algolia" alt="Saiteja Golivi" /></p> -->
 
 
-## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## 🛠️ My Skills 
 
 ### 👉 Frontend Development
 <p align="center"> 
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 <br/> -->
 <hr/>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Connect with me
 <p align="center">
 	<a href="mailto:golivisaitejas@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/saiteja-golivi-5a0a6516a" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -152,7 +152,7 @@ Here are some ideas to get you started:
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitej98&show_icons=true&locale=en&layout=compact" alt="Saiteja Golivi" /></p>
  <br/>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
