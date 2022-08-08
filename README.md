@@ -136,10 +136,6 @@ Here are some ideas to get you started:
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitej98&show_icons=true&locale=en&layout=compact" alt="Saiteja Golivi" /></p>
  <br/>
 
-<h2> Some Programming Humor for you</h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
 <br/>
 ## :trophy: Git profile Trophies
 
