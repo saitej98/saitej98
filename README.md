@@ -141,6 +141,9 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 <br/>
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitej98&layout=compact&theme=algolia" alt="saitej98" /></a> </p>
 
 
 
