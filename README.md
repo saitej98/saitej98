@@ -116,22 +116,6 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p> -->
-
-
-<!-- ## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/GoAlive13/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GoAlive13&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoAlive13&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="GoAlive13" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-<br/> -->
 <hr/>
 
 ## Connect with me
@@ -157,3 +141,16 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 <br/>
+## 🏆 *Github Status*
+
+<img  src="https://github-readme-stats.vercel.app/api?username=saitej98-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=saitej98-1&theme=dark" width="48%" >
+<br>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=saitej98-1&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saitej98-1.saitej98-1)
+</div>
+
