@@ -151,6 +151,5 @@ Here are some ideas to get you started:
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=saitej98-1&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=saitej98-1.saitej98-1)
 </div>
 
