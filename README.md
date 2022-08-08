@@ -141,11 +141,7 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 <br/>
-## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=saitej98-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=saitej98-1&theme=dark" width="48%" >
-<br>
 
 
 
