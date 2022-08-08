@@ -147,9 +147,5 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=saitej98-1&theme=dark" width="48%" >
 <br>
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=saitej98-1&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)]
 
-</div>
 
